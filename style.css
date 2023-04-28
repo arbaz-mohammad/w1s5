@@ -1,0 +1,100 @@
+.container{
+    width: 1040px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.header{
+    
+    padding: 0px,10px;
+    box-shadow: 0px,10px,15px,#000000;
+}
+.header_logo {
+     width: 150px;
+    height: auto;
+    padding: 20px,0px;
+    
+}
+
+.header_nav{
+    margin-top: 30px;
+    padding: 18px,18px;
+}
+.header_nav a {
+    text-decoration: none;
+    color: rgb(109, 107, 107);
+    padding: 13px;
+    margin-top: 400px;
+    
+    
+}
+.header_btn {
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 302px;
+    
+
+}
+.header_btn_one{
+    text-decoration: none;
+}
+.header_btn_two{
+    color: azure;background-color: blue;
+padding: 10px;
+border-radius: 3px;
+text-decoration: none;
+    
+}
+.main{
+    background-image: url('uabf.png'); /* Replace 'background.jpg' with the URL or file path of your desired image */
+     /* Adjust the size of the background image to cover the entire body element */
+    background-position: center; 
+    background-size: cover;
+    
+    
+    
+}
+.box1{
+    width: 45%;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: ;
+}
+.box1 img{
+    width: 100%;
+}
+.box1 h1{
+    font-size: 50px;
+    color: white;
+}
+.box1 p{
+    font-size: 20px;
+    color: white;
+}
+.email{
+    padding: 15px 100px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    
+}
+.sign{
+    padding: 15px 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(42, 93, 220);
+    border-radius: 3px;
+    
+}
+
+
+
+
+
+
+
+
